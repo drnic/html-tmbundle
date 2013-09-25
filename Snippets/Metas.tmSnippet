@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;meta http-equiv="content-type" content="text/html;charset=UTF-8" /&gt;
+&lt;meta name="description" content="${1:Description of your site}" /&gt;
+&lt;meta name="keywords" content="${2:key,words}" /&gt;
+&lt;meta name="author" content="${3:Author Name &lt;contat@email.com&gt;}" /&gt;</string>
+	<key>name</key>
+	<string>Metas</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>metas</string>
+	<key>uuid</key>
+	<string>6B67A8B6-F20A-45F1-9598-E2F20C4A0BD8</string>
+</dict>
+</plist>

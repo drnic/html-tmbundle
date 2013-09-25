@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;h1 id="${1/[[:alpha:]]+|( )/(?1:_:\L$0)/g}"&gt;${1:$TM_SELECTED_TEXT}&lt;/h1&gt;</string>
+	<string>&lt;th&gt;${1:&amp;nbsp;}&lt;/th&gt;$0</string>
 	<key>name</key>
-	<string>Heading Title</string>
+	<string>Table header</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>h1</string>
+	<string>th</string>
 	<key>uuid</key>
-	<string>65BA66DC-A07F-11D9-A5A2-000D93C8BE28</string>
+	<string>D98FF804-1432-4055-995D-1BB3CD0A19B2</string>
 </dict>
 </plist>
