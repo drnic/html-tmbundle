@@ -19,7 +19,7 @@
 				<integer>1</integer>
 				<key>replaceAllScope</key>
 				<string>document</string>
-				<key>wrapAround</key>
+				<key>wraparound</key>
 				<integer>0</integer>
 			</dict>
 			<key>command</key>
